@@ -1,0 +1,14 @@
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\bin\Debug\net7.0\MN.exe
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\bin\Debug\net7.0\MN.deps.json
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\bin\Debug\net7.0\MN.runtimeconfig.json
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\bin\Debug\net7.0\MN.dll
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\bin\Debug\net7.0\MN.pdb
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\obj\Debug\net7.0\MN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\obj\Debug\net7.0\MN.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\obj\Debug\net7.0\MN.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\obj\Debug\net7.0\MN.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\obj\Debug\net7.0\MN.dll
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\obj\Debug\net7.0\refint\MN.dll
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\obj\Debug\net7.0\MN.pdb
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\obj\Debug\net7.0\MN.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\RecucrsionFinal\MN\obj\Debug\net7.0\ref\MN.dll
